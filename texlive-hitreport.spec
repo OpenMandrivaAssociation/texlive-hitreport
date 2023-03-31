@@ -1,6 +1,6 @@
 Name:		texlive-hitreport
 Version:	58357
-Release:	1
+Release:	2
 Summary:	Harbin Institute of Technology Report LaTeX Template
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hitreport
