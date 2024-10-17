@@ -3,7 +3,7 @@ Version:	58357
 Release:	2
 Summary:	Harbin Institute of Technology Report LaTeX Template
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hitreport
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/hitreport
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hitreport.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/hitreport.doc.r%{version}.tar.xz
